@@ -1,13 +1,13 @@
 # CEIA-AMIA-TP1 - LDA/QDA y optimización matemática de modelos
 
 Grupo de trabajo 1
-Miembros:
 
-Martin Brocca <martinbrocca@gmail.com> 
-Emiliano Iparraguirre <emiliano.iparraguirre22@gmail.com>
-Natalia Espector <nataliaespector@gmail.com>
-Agustin Lopez Fredes <agustin.lopezfredes@gmail.com>
-Fernando Martinez <fgmartinez1989@gmail.com>
+**Miembros:**
+- Martin Brocca <martinbrocca@gmail.com>
+- Emiliano Iparraguirre <emiliano.iparraguirre22@gmail.com>
+- Natalia Espector <nataliaespector@gmail.com>
+- Agustin Lopez Fredes <agustin.lopezfredes@gmail.com>
+- Fernando Martinez <fgmartinez1989@gmail.com>
 
 
 Respuestas a las preguntas en el código:
