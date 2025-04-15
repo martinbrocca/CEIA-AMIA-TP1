@@ -9,6 +9,8 @@ Grupo de trabajo 1
 - Agustin Lopez Fredes <agustin.lopezfredes@gmail.com>
 - Fernando Martinez <fgmartinez1989@gmail.com>
 
+---
+
 
 Respuestas a las preguntas en el código:
 
@@ -44,3 +46,4 @@ Respuestas a las preguntas en el código:
 ### Q7: que hace axis=1? por que no axis=0?
   - El parámetro `axis=1` indica que el promedio se debe calcular por columnas y no por filas. 
 
+---
