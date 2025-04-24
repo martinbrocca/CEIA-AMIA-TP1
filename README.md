@@ -7,7 +7,6 @@ Grupo de trabajo 1
 - Emiliano Iparraguirre <emiliano.iparraguirre22@gmail.com>
 - Natalia Espector <nataliaespector@gmail.com>
 - Agustin Lopez Fredes <agustin.lopezfredes@gmail.com>
-- Fernando Martinez <fgmartinez1989@gmail.com>
 
 ---
 
